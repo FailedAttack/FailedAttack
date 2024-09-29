@@ -1,4 +1,4 @@
-## Hi there 👋
+![giphy (2)](https://github.com/user-attachments/assets/e5a0f9aa-4324-4340-866d-4fe855e14623)
 
 <!--
 **FailedAttack/FailedAttack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
